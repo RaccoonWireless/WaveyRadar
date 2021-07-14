@@ -11,9 +11,10 @@ This compact (80mm x 40mm) platform is designed to allow researchers to experime
 \*`HMC849A` used prior to revision 2. 
 
 Other features include:
-- built in Tx and Rx microstrip patch antennas with inline SW23 RF switches/probes for bypassing to external antennas. 
-- \*`Cortex M0+` Microcontroller for digital control of PLL, DAC, and RF bypass switch. Accessible through USB C interface. 
+- Built in Tx and Rx microstrip patch antennas with inline SW23 RF switches/probes for bypassing to external antennas. 
+- `Cortex M0+`* Microcontroller for digital control of PLL, DAC, and RF bypass switch. Accessible through USB C interface. 
 - Wide 12-20V input voltage range with input protections.
 - M2 mounting holes.
+\*Not present prior to revision 2. 
 
 These features are built onto a high-frequency PCB material using RF-design techniques. 
